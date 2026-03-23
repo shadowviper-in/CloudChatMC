@@ -5,7 +5,10 @@
     "name": "CloudChatMC",
     "description": "Global and private encrypted chat via Cloudflare Worker WebSocket",
     "authors": ["shadowviper_in"],
-    "contact": {},
+    "contact": {
+        "sources": "https://github.com/shadowviper-in/CloudChatMC",
+        "issues": "https://github.com/shadowviper-in/CloudChatMC/issues"
+    },
     "license": "MIT",
     "icon": "assets/cloudchatmc/icon.png",
     "environment": "client",
@@ -20,6 +23,7 @@
     },
     "suggests": {},
     "custom": {
+        "modrinth": "https://modrinth.com/mod/cloudchatmc/",
         "credits": "shadowviper_in (developer), Cloudflare (infrastructure)"
     }
 }
