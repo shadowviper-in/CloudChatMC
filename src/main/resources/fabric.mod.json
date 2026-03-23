@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 1,
+    "id": "cloudchatmc",
+    "version": "${version}",
+    "name": "CloudChatMC",
+    "description": "Global and private encrypted chat via Cloudflare Worker WebSocket",
+    "authors": ["shadowviper_in"],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/cloudchatmc/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "client": ["com.cloudchatmc.CloudChatMC"]
+    },
+    "depends": {
+        "fabricloader": ">=0.16.10",
+        "fabric-api": "*",
+        "minecraft": "~1.21.4",
+        "java": ">=21"
+    },
+    "suggests": {},
+    "custom": {
+        "credits": "shadowviper_in (developer), Cloudflare (infrastructure)"
+    }
+}
