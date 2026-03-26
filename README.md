@@ -243,13 +243,13 @@ Or use the in-game command:
 - Each player gets their own unique token — never share tokens between players
 - Use long alphanumeric strings (32+ characters) with no special characters
 - Keep tokens private — anyone with a token can connect as that player
-- You can generate safe tokens at [generate.plus/string](https://generate.plus/string)
+- You can generate safe tokens at [String Generator](https://www.random.org/strings/)
 
 ---
 
 ## Requirements
 
-- Minecraft 1.21.4-1.21.11
+- Minecraft 1.21.x
 - Fabric Loader 0.16.10+
 - Fabric API
 
@@ -262,4 +262,4 @@ small friend groups with no maintenance required.
 
 ## License
 
-GPL-v3.0 — free to use, modify, and distribute.
+GPL-3.0 — free to use, modify, and distribute.
