@@ -249,7 +249,7 @@ Or use the in-game command:
 
 ## Requirements
 
-- Minecraft 1.21.x
+- Minecraft 1.21.4-1.21.11
 - Fabric Loader 0.16.10+
 - Fabric API
 
@@ -262,4 +262,4 @@ small friend groups with no maintenance required.
 
 ## License
 
-MIT — free to use, modify, and distribute.
+GPL-v3.0 — free to use, modify, and distribute.
